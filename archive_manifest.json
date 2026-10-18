@@ -1,0 +1,744 @@
+[
+  {
+    "title": "HOME",
+    "link": "/home-1",
+    "date": "Wed, 26 Apr 2023 22:35:36 +0000",
+    "typ": "page",
+    "slug": "home-1"
+  },
+  {
+    "title": "COACHING + CLINICAL SUPERVISION",
+    "link": "/coachingandclinicalsupervision",
+    "date": "Thu, 15 Dec 2022 21:58:35 +0000",
+    "typ": "page",
+    "slug": "coachingandclinicalsupervision"
+  },
+  {
+    "title": "WORKSHOPS + TRAININGS",
+    "link": "/workshopsandtrainings",
+    "date": "Wed, 26 Apr 2023 22:36:03 +0000",
+    "typ": "page",
+    "slug": "workshopsandtrainings"
+  },
+  {
+    "title": "ABOUT ME",
+    "link": "/about",
+    "date": "Wed, 14 Dec 2022 13:49:04 +0000",
+    "typ": "page",
+    "slug": "about"
+  },
+  {
+    "title": "Falling Down Getting Back Up Doing It Over And Over Again",
+    "link": "/blog/2019/10/22/falling-down-getting-back-up-doing-it-over-and-over-again",
+    "date": "2019-10-24 02:31:16",
+    "typ": "post",
+    "slug": "blog-2019-10-22-falling-down-getting-back-up-doing-it-over-and-over-again"
+  },
+  {
+    "title": "Thanksgiving A Day Of Thanks And A Day Of Mourning",
+    "link": "/blog/2019/11/15/thanksgiving-a-day-of-thanks-and-a-day-of-mourning",
+    "date": "2019-11-16 02:22:31",
+    "typ": "post",
+    "slug": "blog-2019-11-15-thanksgiving-a-day-of-thanks-and-a-day-of-mourning"
+  },
+  {
+    "title": "Tis The Season To Make Reparations",
+    "link": "/blog/2019/12/14/tis-the-season-to-make-reparations",
+    "date": "2019-12-14 17:41:53",
+    "typ": "post",
+    "slug": "blog-2019-12-14-tis-the-season-to-make-reparations"
+  },
+  {
+    "title": "Getting Started On The Journey Toward Becoming A White Anti Racist",
+    "link": "/blog/2019/3/12/getting-started-on-the-journey-toward-becoming-a-white-anti-racist",
+    "date": "2019-03-12 14:07:45",
+    "typ": "post",
+    "slug": "blog-2019-3-12-getting-started-on-the-journey-toward-becoming-a-white-anti-racist"
+  },
+  {
+    "title": "Successful Workshop",
+    "link": "/blog/2019/3/12/successful-workshop",
+    "date": "2019-04-04 18:32:59",
+    "typ": "post",
+    "slug": "blog-2019-3-12-successful-workshop"
+  },
+  {
+    "title": "Understanding White Identity",
+    "link": "/blog/2019/3/30/understanding-white-identity",
+    "date": "2019-04-03 20:44:05",
+    "typ": "post",
+    "slug": "blog-2019-3-30-understanding-white-identity"
+  },
+  {
+    "title": "April Showers Bring May Resources",
+    "link": "/blog/2019/5/4/april-showers-bring-may-resources",
+    "date": "2019-05-09 15:06:18",
+    "typ": "post",
+    "slug": "blog-2019-5-4-april-showers-bring-may-resources"
+  },
+  {
+    "title": "More Resources For Journey",
+    "link": "/blog/2019/6/6/more-resources-for-journey",
+    "date": "2019-06-07 12:09:16",
+    "typ": "post",
+    "slug": "blog-2019-6-6-more-resources-for-journey"
+  },
+  {
+    "title": "Summer School Is In Session Learning Together So Together We Can Dismantle Racism",
+    "link": "/blog/2019/7/10/summer-school-is-in-session-learning-together-so-together-we-can-dismantle-racism",
+    "date": "2019-07-10 18:04:27",
+    "typ": "post",
+    "slug": "blog-2019-7-10-summer-school-is-in-session-learning-together-so-together-we-can-dismantle-racism"
+  },
+  {
+    "title": "Personalexperiencedeepens",
+    "link": "/blog/2019/8/12/personalexperiencedeepens",
+    "date": "2019-08-12 17:14:07",
+    "typ": "post",
+    "slug": "blog-2019-8-12-personalexperiencedeepens"
+  },
+  {
+    "title": "Either Or Thinking Keeps Us From Experiencing Our True Humanity And Withholds White Supremacy",
+    "link": "/blog/2019/9/17/either-or-thinking-keeps-us-from-experiencing-our-true-humanity-and-withholds-white-supremacy",
+    "date": "2019-09-26 01:51:29",
+    "typ": "post",
+    "slug": "blog-2019-9-17-either-or-thinking-keeps-us-from-experiencing-our-true-humanity-and-withholds-white-supremacy"
+  },
+  {
+    "title": "Building Up Those Antiracist Muscles For The New Year",
+    "link": "/blog/2020/1/21/building-up-those-antiracist-muscles-for-the-new-year",
+    "date": "2020-01-22 02:57:10",
+    "typ": "post",
+    "slug": "blog-2020-1-21-building-up-those-antiracist-muscles-for-the-new-year"
+  },
+  {
+    "title": "Election Day And White Accountability",
+    "link": "/blog/2020/10/28/election-day-and-white-accountability",
+    "date": "2020-10-29 02:45:00",
+    "typ": "post",
+    "slug": "blog-2020-10-28-election-day-and-white-accountability"
+  },
+  {
+    "title": "Thanks Giving And Thanks Taking",
+    "link": "/blog/2020/11/25/thanks-giving-and-thanks-taking",
+    "date": "2020-11-25 15:44:49",
+    "typ": "post",
+    "slug": "blog-2020-11-25-thanks-giving-and-thanks-taking"
+  },
+  {
+    "title": "Seasons Greetings Time Internalized Racial Superiority And White Supremacy Culture",
+    "link": "/blog/2020/12/27/seasons-greetings-time-internalized-racial-superiority-and-white-supremacy-culture",
+    "date": "2020-12-28 04:28:46",
+    "typ": "post",
+    "slug": "blog-2020-12-27-seasons-greetings-time-internalized-racial-superiority-and-white-supremacy-culture"
+  },
+  {
+    "title": "Celebrating Black History Month By Challenging The Ways I Participate In White Supremacy Culture",
+    "link": "/blog/2020/3/1/celebrating-black-history-month-by-challenging-the-ways-i-participate-in-white-supremacy-culture",
+    "date": "2020-03-01 17:41:02",
+    "typ": "post",
+    "slug": "blog-2020-3-1-celebrating-black-history-month-by-challenging-the-ways-i-participate-in-white-supremacy-culture"
+  },
+  {
+    "title": "Our White Silence Is Violence Lets Be Upstanders Not Bystanders",
+    "link": "/blog/2020/3/21/our-white-silence-is-violence-lets-be-upstanders-not-bystanders",
+    "date": "2020-03-22 02:01:22",
+    "typ": "post",
+    "slug": "blog-2020-3-21-our-white-silence-is-violence-lets-be-upstanders-not-bystanders"
+  },
+  {
+    "title": "The Privilege Of A Universal Experience",
+    "link": "/blog/2020/4/28/the-privilege-of-a-universal-experience",
+    "date": "2020-04-28 13:16:01",
+    "typ": "post",
+    "slug": "blog-2020-4-28-the-privilege-of-a-universal-experience"
+  },
+  {
+    "title": "The Devastating Impact Of Racism On Women Of Color",
+    "link": "/blog/2020/5/29/the-devastating-impact-of-racism-on-women-of-color",
+    "date": "2020-05-29 20:35:58",
+    "typ": "post",
+    "slug": "blog-2020-5-29-the-devastating-impact-of-racism-on-women-of-color"
+  },
+  {
+    "title": "In Honor Of Juneteenth A Day Of Remembrance",
+    "link": "/blog/2020/6/25/in-honor-of-juneteenth-a-day-of-remembrance",
+    "date": "2020-06-26 02:31:34",
+    "typ": "post",
+    "slug": "blog-2020-6-25-in-honor-of-juneteenth-a-day-of-remembrance"
+  },
+  {
+    "title": "The Other Side Of Independence Day",
+    "link": "/blog/2020/7/15/the-other-side-of-independence-day",
+    "date": "2020-07-16 02:58:25",
+    "typ": "post",
+    "slug": "blog-2020-7-15-the-other-side-of-independence-day"
+  },
+  {
+    "title": "The Power Of Dissociation In Upholding White Supremacy",
+    "link": "/blog/2020/8/29/the-power-of-dissociation-in-upholding-white-supremacy",
+    "date": "2020-08-30 02:44:44",
+    "typ": "post",
+    "slug": "blog-2020-8-29-the-power-of-dissociation-in-upholding-white-supremacy"
+  },
+  {
+    "title": "Sitting In The Mess Of It All With Love And Compassion",
+    "link": "/blog/2020/9/24/sitting-in-the-mess-of-it-all-with-love-and-compassion",
+    "date": "2020-09-25 02:56:55",
+    "typ": "post",
+    "slug": "blog-2020-9-24-sitting-in-the-mess-of-it-all-with-love-and-compassion"
+  },
+  {
+    "title": "This Is Who We Are",
+    "link": "/blog/2021/1/28/this-is-who-we-are",
+    "date": "2021-01-28 14:42:24",
+    "typ": "post",
+    "slug": "blog-2021-1-28-this-is-who-we-are"
+  },
+  {
+    "title": "Explaining Indigenous Peoples Day To My 82 Year Old White Dad",
+    "link": "/blog/2021/10/27/explaining-indigenous-peoples-day-to-my-82-year-old-white-dad",
+    "date": "2021-10-27 20:00:19",
+    "typ": "post",
+    "slug": "blog-2021-10-27-explaining-indigenous-peoples-day-to-my-82-year-old-white-dad"
+  },
+  {
+    "title": "Truth And Conciliation",
+    "link": "/blog/2021/11/26/truth-and-conciliation",
+    "date": "2021-11-26 15:50:27",
+    "typ": "post",
+    "slug": "blog-2021-11-26-truth-and-conciliation"
+  },
+  {
+    "title": "Marus Gift Of Vulnerability",
+    "link": "/blog/2021/12/22/marus-gift-of-vulnerability",
+    "date": "2021-12-22 13:15:11",
+    "typ": "post",
+    "slug": "blog-2021-12-22-marus-gift-of-vulnerability"
+  },
+  {
+    "title": "Black History One Shelf One Month",
+    "link": "/blog/2021/2/25/black-history-one-shelf-one-month",
+    "date": "2021-02-26 02:34:10",
+    "typ": "post",
+    "slug": "blog-2021-2-25-black-history-one-shelf-one-month"
+  },
+  {
+    "title": "What Is My Culture",
+    "link": "/blog/2021/3/23/what-is-my-culture",
+    "date": "2021-03-24 01:07:55",
+    "typ": "post",
+    "slug": "blog-2021-3-23-what-is-my-culture"
+  },
+  {
+    "title": "Diversity Equity Inclusion And Belonging Deib",
+    "link": "/blog/2021/4/24/diversity-equity-inclusion-and-belonging-deib",
+    "date": "2021-04-24 20:51:12",
+    "typ": "post",
+    "slug": "blog-2021-4-24-diversity-equity-inclusion-and-belonging-deib"
+  },
+  {
+    "title": "A Little Of This And A Little Of That Equals A Lot To Think About",
+    "link": "/blog/2021/5/29/a-little-of-this-and-a-little-of-that-equals-a-lot-to-think-about",
+    "date": "2021-05-29 14:44:36",
+    "typ": "post",
+    "slug": "blog-2021-5-29-a-little-of-this-and-a-little-of-that-equals-a-lot-to-think-about"
+  },
+  {
+    "title": "Commemorating Juneteenth And The Long Road Ahead Of Us",
+    "link": "/blog/2021/6/15/commemorating-juneteenth-and-the-long-road-ahead-of-us",
+    "date": "2021-06-15 21:26:01",
+    "typ": "post",
+    "slug": "blog-2021-6-15-commemorating-juneteenth-and-the-long-road-ahead-of-us"
+  },
+  {
+    "title": "Personal Transformation Is An Act Of Anti Racism Dr Robin Diangelo",
+    "link": "/blog/2021/7/22/personal-transformation-is-an-act-of-anti-racism-dr-robin-diangelo",
+    "date": "2021-07-22 22:46:16",
+    "typ": "post",
+    "slug": "blog-2021-7-22-personal-transformation-is-an-act-of-anti-racism-dr-robin-diangelo"
+  },
+  {
+    "title": "White Body Supremacy Doesnt Just Live In Our Thinking Brains It Lives And Breathes In Our Bodies Resmaa Menakem",
+    "link": "/blog/2021/8/16/white-body-supremacy-doesnt-just-live-in-our-thinking-brains-it-lives-and-breathes-in-our-bodies-resmaa-menakem",
+    "date": "2021-08-16 14:23:49",
+    "typ": "post",
+    "slug": "blog-2021-8-16-white-body-supremacy-doesnt-just-live-in-our-thinking-brains-it-lives-and-breathes-in-our-bodies-resmaa-menake"
+  },
+  {
+    "title": "Is Your Anti Racist Education A Tool Of White Supremacy Ijeoma Oluo",
+    "link": "/blog/2021/9/23/is-your-anti-racist-education-a-tool-of-white-supremacy-ijeoma-oluo",
+    "date": "2021-09-23 17:39:36",
+    "typ": "post",
+    "slug": "blog-2021-9-23-is-your-anti-racist-education-a-tool-of-white-supremacy-ijeoma-oluo"
+  },
+  {
+    "title": "When I Dont Think I Need To Really Means I Dont Want To",
+    "link": "/blog/2022/1/26/when-i-dont-think-i-need-to-really-means-i-dont-want-to",
+    "date": "2022-01-26 21:55:08",
+    "typ": "post",
+    "slug": "blog-2022-1-26-when-i-dont-think-i-need-to-really-means-i-dont-want-to"
+  },
+  {
+    "title": "Is This Land Your Land",
+    "link": "/blog/2022/11/15/is-this-land-your-land",
+    "date": "2022-11-15 15:51:22",
+    "typ": "post",
+    "slug": "blog-2022-11-15-is-this-land-your-land"
+  },
+  {
+    "title": "December 2022 Blog",
+    "link": "/blog/2022/12/20/december-2022-blog",
+    "date": "2022-12-21 01:22:32",
+    "typ": "post",
+    "slug": "blog-2022-12-20-december-2022-blog"
+  },
+  {
+    "title": "Lets Honor Black History Month By Doing Our Work",
+    "link": "/blog/2022/2/27/lets-honor-black-history-month-by-doing-our-work",
+    "date": "2022-02-28 04:03:38",
+    "typ": "post",
+    "slug": "blog-2022-2-27-lets-honor-black-history-month-by-doing-our-work"
+  },
+  {
+    "title": "Celebrating Womens History Month",
+    "link": "/blog/2022/3/27/celebrating-womens-history-month",
+    "date": "2022-03-27 15:12:45",
+    "typ": "post",
+    "slug": "blog-2022-3-27-celebrating-womens-history-month"
+  },
+  {
+    "title": "Sorrow Fear And Privilege",
+    "link": "/blog/2022/4/27/sorrow-fear-and-privilege",
+    "date": "2022-04-27 14:28:14",
+    "typ": "post",
+    "slug": "blog-2022-4-27-sorrow-fear-and-privilege"
+  },
+  {
+    "title": "Letting Go And Making Space",
+    "link": "/blog/2022/5/25/letting-go-and-making-space",
+    "date": "2022-05-25 20:08:48",
+    "typ": "post",
+    "slug": "blog-2022-5-25-letting-go-and-making-space"
+  },
+  {
+    "title": "Juneteenth Reparations",
+    "link": "/blog/2022/6/22/juneteenth-reparations",
+    "date": "2022-06-22 14:12:15",
+    "typ": "post",
+    "slug": "blog-2022-6-22-juneteenth-reparations"
+  },
+  {
+    "title": "Community",
+    "link": "/blog/2022/7/27/community",
+    "date": "2022-07-27 15:03:39",
+    "typ": "post",
+    "slug": "blog-2022-7-27-community"
+  },
+  {
+    "title": "Me And My White Privilege",
+    "link": "/blog/2022/8/25/me-and-my-white-privilege",
+    "date": "2022-08-25 22:09:27",
+    "typ": "post",
+    "slug": "blog-2022-8-25-me-and-my-white-privilege"
+  },
+  {
+    "title": "September 2022 Blog",
+    "link": "/blog/2022/9/26/september-2022-blog",
+    "date": "2022-09-26 19:47:49",
+    "typ": "post",
+    "slug": "blog-2022-9-26-september-2022-blog"
+  },
+  {
+    "title": "What Are You Doing To Build And Stretch Your Anti Racist Muscles",
+    "link": "/blog/2023/1/23/what-are-you-doing-to-build-and-stretch-your-anti-racist-muscles",
+    "date": "2023-01-23 17:57:04",
+    "typ": "post",
+    "slug": "blog-2023-1-23-what-are-you-doing-to-build-and-stretch-your-anti-racist-muscles"
+  },
+  {
+    "title": "Shedding the Old to Make Room for the New",
+    "link": "/blog/2023/10/26/shedding-the-old-to-make-room-for-the-new",
+    "date": "2023-10-26 15:56:46",
+    "typ": "post",
+    "slug": "blog-2023-10-26-shedding-the-old-to-make-room-for-the-new"
+  },
+  {
+    "title": "The true colors of white womanhood (#Three-FifthsMagazine)",
+    "link": "/blog/2023/11/22/the-true-colors-of-white-womanhood-three-fifthsmagazine",
+    "date": "2023-11-22 15:44:25",
+    "typ": "post",
+    "slug": "blog-2023-11-22-the-true-colors-of-white-womanhood-three-fifthsmagazine"
+  },
+  {
+    "title": "December 2023 Blog",
+    "link": "/blog/2023/12/29/december-2023-blog",
+    "date": "2023-12-29 18:54:24",
+    "typ": "post",
+    "slug": "blog-2023-12-29-december-2023-blog"
+  },
+  {
+    "title": "Can Healing Ourselves Heal Our Ancestors?",
+    "link": "/blog/2023/2/23/can-healing-ourselves-heal-our-ancestors",
+    "date": "2023-02-23 22:49:29",
+    "typ": "post",
+    "slug": "blog-2023-2-23-can-healing-ourselves-heal-our-ancestors"
+  },
+  {
+    "title": "Women\u2019s History Month: Why real sisterhood across race is so elusive",
+    "link": "/blog/2023/3/28/womens-history-month-why-real-sisterhood-across-race-is-so-elusive",
+    "date": "2023-03-29 02:51:40",
+    "typ": "post",
+    "slug": "blog-2023-3-28-womens-history-month-why-real-sisterhood-across-race-is-so-elusive"
+  },
+  {
+    "title": "Healing the Broken Parts",
+    "link": "/blog/2023/4/25/healing-the-broken-parts",
+    "date": "2023-04-25 16:52:14",
+    "typ": "post",
+    "slug": "blog-2023-4-25-healing-the-broken-parts"
+  },
+  {
+    "title": "I\u2019m not like \u201cthose people\u201d  (#ThreeFifthsMagazine)",
+    "link": "/blog/2023/5/23/im-not-like-those-people-threefifthsmagazine",
+    "date": "2023-05-23 19:38:29",
+    "typ": "post",
+    "slug": "blog-2023-5-23-im-not-like-those-people-threefifthsmagazine"
+  },
+  {
+    "title": "A month of honoring, celebrating and mourning",
+    "link": "/blog/2023/6/26/a-month-of-honoring-celebrating-and-mourning",
+    "date": "2023-06-27 03:43:21",
+    "typ": "post",
+    "slug": "blog-2023-6-26-a-month-of-honoring-celebrating-and-mourning"
+  },
+  {
+    "title": "The Wrecking Ball of White Ignorance",
+    "link": "/blog/2023/7/25/the-wrecking-ball-of-white-ignorance",
+    "date": "2023-07-25 17:58:53",
+    "typ": "post",
+    "slug": "blog-2023-7-25-the-wrecking-ball-of-white-ignorance"
+  },
+  {
+    "title": "Why do reparations trigger fear in the hearts of so many white people? (#ThreeFifthsMagazine)",
+    "link": "/blog/2023/8/27/why-do-reparations-trigger-fear-in-the-hearts-of-so-many-white-people",
+    "date": "2023-08-27 05:40:01",
+    "typ": "post",
+    "slug": "blog-2023-8-27-why-do-reparations-trigger-fear-in-the-hearts-of-so-many-white-people"
+  },
+  {
+    "title": "What Sits Heavily in My Heart",
+    "link": "/blog/2023/9/25/what-sits-heavily-in-my-heart",
+    "date": "2023-09-25 15:59:00",
+    "typ": "post",
+    "slug": "blog-2023-9-25-what-sits-heavily-in-my-heart"
+  },
+  {
+    "title": "Building more principled, intentional, and humane relationships",
+    "link": "/blog/2024/1/22/building-more-principled-intentional-and-humane-relationships",
+    "date": "2024-01-22 23:21:21",
+    "typ": "post",
+    "slug": "blog-2024-1-22-building-more-principled-intentional-and-humane-relationships"
+  },
+  {
+    "title": "October 2024 Blog",
+    "link": "/blog/2024/10/14/october-2024-blog",
+    "date": "2024-10-14 17:43:40",
+    "typ": "post",
+    "slug": "blog-2024-10-14-october-2024-blog"
+  },
+  {
+    "title": "November 2024 Blog",
+    "link": "/blog/2024/11/13/november-2024-blog",
+    "date": "2024-11-14 14:37:04",
+    "typ": "post",
+    "slug": "blog-2024-11-13-november-2024-blog"
+  },
+  {
+    "title": "December 2024",
+    "link": "/blog/2024/12/11/december-2024",
+    "date": "2024-12-11 22:07:04",
+    "typ": "post",
+    "slug": "blog-2024-12-11-december-2024"
+  },
+  {
+    "title": "Ways for white folks to honor and celebrate Black History Month - AND work on dismantling racism all year long.",
+    "link": "/blog/2024/2/23/ways-for-white-folks-to-honor-and-celebrate-black-history-month-and-work-on-dismantling-racism-all-year-long",
+    "date": "2024-02-24 01:25:58",
+    "typ": "post",
+    "slug": "blog-2024-2-23-ways-for-white-folks-to-honor-and-celebrate-black-history-month-and-work-on-dismantling-racism-all-year-long"
+  },
+  {
+    "title": "Watching the Seeds I\u2019ve Planted Blossom",
+    "link": "/blog/2024/3/23/watching-the-seeds-ive-planted-blossom",
+    "date": "2024-03-23 19:29:03",
+    "typ": "post",
+    "slug": "blog-2024-3-23-watching-the-seeds-ive-planted-blossom"
+  },
+  {
+    "title": "Do new advances in technology create more of a racial equity gap? #threefifthsmagazine",
+    "link": "/blog/2024/4/17/do-new-advances-in-technology-create-more-of-a-racial-equity-gap-threefifthsmagazine",
+    "date": "2024-04-17 15:09:16",
+    "typ": "post",
+    "slug": "blog-2024-4-17-do-new-advances-in-technology-create-more-of-a-racial-equity-gap-threefifthsmagazine"
+  },
+  {
+    "title": "The Power of Vulnerability - #threefifthsmagazine",
+    "link": "/blog/2024/5/14/the-power-of-vulnerability-threefifthsmagazine",
+    "date": "2024-05-14 19:59:05",
+    "typ": "post",
+    "slug": "blog-2024-5-14-the-power-of-vulnerability-threefifthsmagazine"
+  },
+  {
+    "title": "Using the Window of Tolerance to Build Resilience #threefifthsmagazine",
+    "link": "/blog/2024/6/7/using-the-window-of-tolerance-to-build-resilience-threefifthsmagazine",
+    "date": "2024-06-07 15:20:41",
+    "typ": "post",
+    "slug": "blog-2024-6-7-using-the-window-of-tolerance-to-build-resilience-threefifthsmagazine"
+  },
+  {
+    "title": "I\u2019ll Take the Red Pill Please: Shattering the Illusion #threefifthsmagazine",
+    "link": "/blog/2024/7/3/ill-take-the-red-pill-please-shattering-the-illusion-threefifthsmagazine",
+    "date": "2024-07-03 17:23:48",
+    "typ": "post",
+    "slug": "blog-2024-7-3-ill-take-the-red-pill-please-shattering-the-illusion-threefifthsmagazine"
+  },
+  {
+    "title": "Building a \u201cNet that works.\u201d (PISAB)",
+    "link": "/blog/2024/8/5/building-a-net-that-works-pisab",
+    "date": "2024-08-05 18:59:02",
+    "typ": "post",
+    "slug": "blog-2024-8-5-building-a-net-that-works-pisab"
+  },
+  {
+    "title": "September 2024 Blog",
+    "link": "/blog/2024/9/14/september-2024-blog",
+    "date": "2024-09-14 18:22:25",
+    "typ": "post",
+    "slug": "blog-2024-9-14-september-2024-blog"
+  },
+  {
+    "title": "January 2025 Blog",
+    "link": "/blog/2025/1/22/january-2025-blog",
+    "date": "2025-01-22 17:28:12",
+    "typ": "post",
+    "slug": "blog-2025-1-22-january-2025-blog"
+  },
+  {
+    "title": "Moving Beyond Acknowledgment: Indigenous Peoples\u2019 Day and White Responsibility",
+    "link": "/blog/2025/10/14/moving-beyond-acknowledgment-indigenous-peoples-day-and-white-responsibility",
+    "date": "2025-10-30 14:01:27",
+    "typ": "post",
+    "slug": "blog-2025-10-14-moving-beyond-acknowledgment-indigenous-peoples-day-and-white-responsibility"
+  },
+  {
+    "title": "Decolonizing Thanksgiving: Gratitude with Accountability",
+    "link": "/blog/2025/11/20/decolonizing-thanksgiving-gratitude-with-accountability",
+    "date": "2025-11-20 17:16:16",
+    "typ": "post",
+    "slug": "blog-2025-11-20-decolonizing-thanksgiving-gratitude-with-accountability"
+  },
+  {
+    "title": "A Year in Review: How White Supremacy Shaped 2025 and What We Must Do About It",
+    "link": "/blog/2025/12/16/a-year-in-review-how-white-supremacy-shaped-2025-and-what-we-must-do-about-it",
+    "date": "2025-12-17 14:19:07",
+    "typ": "post",
+    "slug": "blog-2025-12-16-a-year-in-review-how-white-supremacy-shaped-2025-and-what-we-must-do-about-it"
+  },
+  {
+    "title": "Black History Month",
+    "link": "/blog/2025/2/20/black-history-month",
+    "date": "2025-02-20 20:41:57",
+    "typ": "post",
+    "slug": "blog-2025-2-20-black-history-month"
+  },
+  {
+    "title": "Women's History Month",
+    "link": "/blog/2025/3/18/womens-history-month",
+    "date": "2025-03-18 13:33:18",
+    "typ": "post",
+    "slug": "blog-2025-3-18-womens-history-month"
+  },
+  {
+    "title": "NATIONAL MONTH OF HOPE",
+    "link": "/blog/2025/4/14/national-month-of-hope",
+    "date": "2025-04-14 13:32:02",
+    "typ": "post",
+    "slug": "blog-2025-4-14-national-month-of-hope"
+  },
+  {
+    "title": "National Mental Health Awareness Month",
+    "link": "/blog/2025/5/14/national-mental-health-awareness-month",
+    "date": "2025-05-14 23:57:09",
+    "typ": "post",
+    "slug": "blog-2025-5-14-national-mental-health-awareness-month"
+  },
+  {
+    "title": "4th Anniversary of Juneteenth as a \u201crecognized federal Holiday\u201d AND starting my 61st cycle around the sun.",
+    "link": "/blog/2025/6/10/4th-anniversary-of-juneteenth-as-a-recognized-federal-holiday-and-starting-my-61st-cycle-around-the-sun",
+    "date": "2025-06-11 02:56:15",
+    "typ": "post",
+    "slug": "blog-2025-6-10-4th-anniversary-of-juneteenth-as-a-recognized-federal-holiday-and-starting-my-61st-cycle-around-the-sun"
+  },
+  {
+    "title": "July Reflections: Untangling Freedom and Responsibility on the 4th",
+    "link": "/blog/2025/7/14/july-reflections-untangling-freedom-and-responsibility-on-the-4th",
+    "date": "2025-07-15 21:15:02",
+    "typ": "post",
+    "slug": "blog-2025-7-14-july-reflections-untangling-freedom-and-responsibility-on-the-4th"
+  },
+  {
+    "title": "The Performance of Innocence: How White Womanhood Protects Power and Blocks Accountability",
+    "link": "/blog/2025/8/13/the-performance-of-innocence-how-white-womanhood-protects-power-and-blocks-accountability",
+    "date": "2025-08-13 17:37:25",
+    "typ": "post",
+    "slug": "blog-2025-8-13-the-performance-of-innocence-how-white-womanhood-protects-power-and-blocks-accountability"
+  },
+  {
+    "title": "Appreciation honors, appropriation erases",
+    "link": "/blog/2025/9/10/appreciation-honors-appropriation-erases",
+    "date": "2025-09-10 21:39:14",
+    "typ": "post",
+    "slug": "blog-2025-9-10-appreciation-honors-appropriation-erases"
+  },
+  {
+    "title": "No Clean Slate: White Responsibility, Collective Power, and the Work Ahead",
+    "link": "/blog/2026/1/19/no-clean-slate-white-responsibility-collective-power-and-the-work-ahead",
+    "date": "2026-01-20 14:22:47",
+    "typ": "post",
+    "slug": "blog-2026-1-19-no-clean-slate-white-responsibility-collective-power-and-the-work-ahead"
+  },
+  {
+    "title": "Beyond Celebration: Black History Month as a Reckoning for White Feminism",
+    "link": "/blog/2026/2/16/beyond-celebration-black-history-month-as-a-reckoning-for-white-feminism",
+    "date": "2026-02-16 20:01:29",
+    "typ": "post",
+    "slug": "blog-2026-2-16-beyond-celebration-black-history-month-as-a-reckoning-for-white-feminism"
+  },
+  {
+    "title": "March, and the Things I Cannot Control",
+    "link": "/blog/2026/3/11/march-and-the-things-i-cannot-control",
+    "date": "2026-03-11 14:32:51",
+    "typ": "post",
+    "slug": "blog-2026-3-11-march-and-the-things-i-cannot-control"
+  },
+  {
+    "title": "Springing Into White Responsibility: What This Season Is Asking of Us",
+    "link": "/blog/2026/4/13/springing-into-white-responsibility-what-this-season-is-asking-of-us",
+    "date": "2026-04-13 18:31:47",
+    "typ": "post",
+    "slug": "blog-2026-4-13-springing-into-white-responsibility-what-this-season-is-asking-of-us"
+  },
+  {
+    "title": "Holding Myself Here",
+    "link": "/blog/2026/5/14/holding-myself-here",
+    "date": "2026-05-14 23:53:48",
+    "typ": "post",
+    "slug": "blog-2026-5-14-holding-myself-here"
+  },
+  {
+    "title": "Race & Conflict Tools",
+    "link": "/new-page",
+    "date": "Mon, 30 Dec 2019 23:12:01 +0000",
+    "typ": "page",
+    "slug": "new-page"
+  },
+  {
+    "title": "MEDIA",
+    "link": "/media",
+    "date": "Wed, 21 Dec 2022 19:47:08 +0000",
+    "typ": "page",
+    "slug": "media"
+  },
+  {
+    "title": "RESOURCES",
+    "link": "/resources",
+    "date": "Mon, 20 Mar 2023 18:27:55 +0000",
+    "typ": "page",
+    "slug": "resources"
+  },
+  {
+    "title": "CONTACT",
+    "link": "/contact",
+    "date": "Tue, 13 Dec 2022 21:57:19 +0000",
+    "typ": "page",
+    "slug": "contact"
+  },
+  {
+    "title": "Philosophy",
+    "link": "/about-clay",
+    "date": "Mon, 12 May 2025 14:50:43 +0000",
+    "typ": "page",
+    "slug": "about-clay"
+  },
+  {
+    "title": "New Gallery",
+    "link": "/new-gallery",
+    "date": "Mon, 12 May 2025 14:50:43 +0000",
+    "typ": "page",
+    "slug": "new-gallery"
+  },
+  {
+    "title": "Gallery",
+    "link": "/gallery-2-unhidden",
+    "date": "Mon, 12 May 2025 14:50:43 +0000",
+    "typ": "page",
+    "slug": "gallery-2-unhidden"
+  },
+  {
+    "title": "An Exploration of Texture.",
+    "link": "/news-clay/2015/an-exploration-of-texture-epj85",
+    "date": "2015-10-08 20:16:00",
+    "typ": "post",
+    "slug": "news-clay-2015-an-exploration-of-texture-epj85"
+  },
+  {
+    "title": "New Line.",
+    "link": "/news-clay/2015/new-line-xa57w",
+    "date": "2015-10-13 20:06:00",
+    "typ": "post",
+    "slug": "news-clay-2015-new-line-xa57w"
+  },
+  {
+    "title": "On Cooking Together.",
+    "link": "/news-clay/2015/on-cooking-together-dse2n",
+    "date": "2015-10-14 19:02:00",
+    "typ": "post",
+    "slug": "news-clay-2015-on-cooking-together-dse2n"
+  },
+  {
+    "title": "The Plate as a Blank Canvas.",
+    "link": "/news-clay/2015/the-plate-as-a-blank-canvas-kkekj",
+    "date": "2015-10-09 20:07:00",
+    "typ": "post",
+    "slug": "news-clay-2015-the-plate-as-a-blank-canvas-kkekj"
+  },
+  {
+    "title": "To Glaze or Not to Glaze.",
+    "link": "/news-clay/2015/to-glaze-or-not-to-glaze-tfbks",
+    "date": "2015-10-06 17:17:00",
+    "typ": "post",
+    "slug": "news-clay-2015-to-glaze-or-not-to-glaze-tfbks"
+  },
+  {
+    "title": "Inspiration: Crystals.",
+    "link": "/news-clay/inspirations-crystals-n2k3g",
+    "date": "2015-10-11 17:14:00",
+    "typ": "post",
+    "slug": "news-clay-inspirations-crystals-n2k3g"
+  },
+  {
+    "title": "Gallery",
+    "link": "/gallery-1-clay",
+    "date": "Mon, 12 May 2025 14:50:44 +0000",
+    "typ": "page",
+    "slug": "gallery-1-clay"
+  },
+  {
+    "title": "Intro",
+    "link": "/intro-clay",
+    "date": "Mon, 12 May 2025 14:50:45 +0000",
+    "typ": "page",
+    "slug": "intro-clay"
+  }
+]
